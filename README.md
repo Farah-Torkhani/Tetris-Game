@@ -7,5 +7,5 @@ This is a classic Tetris game built using Python and Pygame. The game features c
 ## How to Run
 
 1. **Clone the Repository**
-   git clone https://github.com/your-username/tetris-game.git
+   git clone https://github.com/Farah-Torkhani/Tetris-game.git
    cd tetris-game
